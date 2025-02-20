@@ -15,6 +15,7 @@ class Soma {
 		y = sc.nextInt();
 		
 		System.out.println("Soma: " + (x+y));
+		//Teste
 	}
 
 }
